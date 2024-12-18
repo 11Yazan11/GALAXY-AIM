@@ -20,7 +20,7 @@
    Now, make sure to open a new cmd window while keeping the other one with the server running, and past the following code:
 
    ```bash
-   python client.py
+   python public/client.py
    ```
 
 
@@ -45,7 +45,7 @@
    Maintenant, assurez-vous d'ouvrir une nouvelle fenêtre cmd tout en gardant l'autre avec le serveur en cours d'exécution, et insérez le code suivant :
 
    ```bash
-   python client.py
+   python public/client.py
    ```
    
 
