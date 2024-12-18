@@ -9,6 +9,8 @@
    ```bash
    git clone https://github.com/11Yazan11/GALAXY-AIM.git
 
+   cd GALAXY-AIM
+
    pip install -r requirements.txt
 
    ```
@@ -33,7 +35,9 @@
    Tout d'abord, ouvrez une fenêtre d'invite de commande. Ensuite, clonez le répertoire sur votre machine locale à l'aide de la commande suivante :
    ```bash
    git clone https://github.com/11Yazan11/GALAXY-AIM.git
-
+   
+   cd GALAXY-AIM
+   
    pip install -r requirements.txt
 
    ```
